@@ -1,0 +1,40 @@
+#header{
+  font-size: 300%;
+  padding: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+  border-radius: 45px;
+  margin: 10px 5px 0px 5px;
+}
+
+body{
+  background-color: aliceblue;
+}
+
+.card {
+  width: 75%;
+  margin: auto;
+  margin-top: 60px;
+  margin-bottom: 65px;
+}
+
+.button{
+  background-color: #6C757D;
+  border-radius: 8px;
+  color: white;
+  border-style: none;
+  padding: 5px 71px 5px 71px;
+  text-align: center;
+  display: inline-block;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px;
+  width: 195px;
+}
+
+.button:focus {
+    outline: none !important;
+}
+
+.button:hover {
+  background-color: #13CFB8;
+}
